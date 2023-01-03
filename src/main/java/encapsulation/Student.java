@@ -2,6 +2,12 @@ package encapsulation;
 
 public class Student {
 
+    /** Encapsulation is grouping of data and method together in a class. Hiding data in order to prevent direct
+     * access from outside.
+     * Access through methods. Getter - Retrieve Information. Setter - Modify Information. It prevents wrong data to be
+     * entered.
+     **/
+
     public String fname;
     public int rollno;
     private int age;
